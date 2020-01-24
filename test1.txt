@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2456-BB0E
+
+ Directory of C:\Users\vanheckebee2\Desktop\My Project
+
+24/01/2020  15:07    <DIR>          .
+24/01/2020  15:07    <DIR>          ..
+24/01/2020  15:07                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  161.576.083.456 bytes free
